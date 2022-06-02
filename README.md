@@ -1,4 +1,4 @@
-# CarRentalSystem
+# Exercise_Interface_CarRentalSystem
 <p>Simples sistema de aluguel de carros implementado como prática dos conceitos de Orientação a Objetos e Interface, disponível versões com implementação com e sem o uso
   de Interface.</p>
 <p>Problema exemplo: Uma locadora brasileira de carros cobra um valor por hora para locações de até 12 horas. 
