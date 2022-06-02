@@ -2,7 +2,7 @@
 
 namespace CarRentalSystem.Services
 {
-    internal class BrazilTaxService
+    internal class BrazilTaxService : ITaxService // subtipo do ITaxService (Interface)
     {
         public double Tax(double amount)
         {
